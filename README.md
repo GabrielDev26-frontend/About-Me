@@ -3,8 +3,11 @@ Olá! 👋🏻
 Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Web e de Inteligência Artificial | Foco em Aplicações Web, Neuroengenharia e Inovação Tecnológica
 
 Criando bugs desde 2025
-📚 Atualmente estou aprendendo: HTML, CSS, Javascript, React e desenvolvimento front-end 
-🎯 Metas: Conseguindo um estágio de desenvolvedor front-end nos próximos meses 
+
+📚 Atualmente estou aprendendo: HTML, CSS, Javascript, React e desenvolvimento front-end
+
+🎯 Metas: Conseguindo um estágio de desenvolvedor front-end nos próximos meses
+
 🎲 Curiosidade: Adoro animes e já criei um blog de anime
 
 <p align="esquerda">
