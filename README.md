@@ -1,14 +1,18 @@
-Olá! 👋🏻 
+Olá! 👋🏻
+Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Front-End, com foco em HTML, CSS, JavaScript e React/Angular.
 
-Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Front-end | Foco em HTML, CSS, JavaScript e React/Angular.
+🚀 Já desenvolvi projetos práticos que aplicam conceitos de front-end na criação de interfaces funcionais e responsivas:
 
-Criando bugs desde 2025
+💻 Projetos em destaque
 
-📚 Atualmente estou aprendendo: HTML, CSS, Javascript, React e desenvolvimento front-end
+Pokédex – Aplicação web interativa que consome a PokéAPI para exibir informações de Pokémons em tempo real. Desenvolvi funcionalidades de busca, manipulação do DOM e interface responsiva.
 
-🎯 Metas: Conseguindo um estágio de desenvolvedor front-end nos próximos meses
+Menu de Café – Cardápio digital responsivo construído com HTML semântico, Flexbox e Grid, aplicando boas práticas de usabilidade e design.
 
-🎲 Curiosidade: Adoro animes e já criei um blog de anime
+
+📚 Estudos atuais: HTML, CSS, JavaScript, React e fundamentos de front-end.
+🎯 Meta: Conquistar um estágio de desenvolvedor front-end nos próximos meses.
+🎲 Curiosidade: Sou fã de animes e já criei um blog temático unindo programação e hobby.
 
 <p align="esquerda">
 
