@@ -1,6 +1,6 @@
 Olá! 👋🏻 
 
-Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Web e de Inteligência Artificial | Foco em Aplicações Web, Neuroengenharia e Inovação Tecnológica
+Estudante de Análise e Desenvolvimento de Sistemas | Aspirante a Desenvolvedor Front-end | Foco em HTML, CSS, JavaScript e React/Angular.
 
 Criando bugs desde 2025
 
