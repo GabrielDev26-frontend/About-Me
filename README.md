@@ -47,7 +47,7 @@ HTML5 • CSS3 • JavaScript • Bootstrap 5
 ---
 
 ## 📫 Contato
-💼 [LinkedIn]([https://www.linkedin.com/in/gabrieldev26](https://www.linkedin.com/in/gabriel-de-oliveira-souza-89b57719b/)) 
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-de-oliveira-souza-89b57719b) 
 
 
 ---
