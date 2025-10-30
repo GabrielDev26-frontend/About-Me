@@ -46,11 +46,6 @@ HTML5 • CSS3 • JavaScript • Bootstrap 5
 
 ---
 
-## 🐍 Snake Game (Contribuições)
-![Snake animation](https://github.com/gabrieldev26-frontend/gabrieldev26-frontend/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contato
 💼 [LinkedIn](https://www.linkedin.com/in/gabrieldev26)  
 🌐 [Portfólio](https://gabrieldev26-frontend.github.io)  
