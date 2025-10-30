@@ -1,24 +1,61 @@
-Olá! 👋🏻
-Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedor Front-End, com foco em HTML, CSS, JavaScript e React/Angular.
+# 👋 Olá, eu sou o Gabriel!
 
-🚀 Já desenvolvi projetos práticos que aplicam conceitos de front-end na criação de interfaces funcionais e responsivas:
+Sou um desenvolvedor em formação apaixonado por tecnologia, inteligência artificial e desenvolvimento front-end.  
+Atualmente, estou focado em aprimorar minhas habilidades em **JavaScript**, **React**, **TypeScript** e **automação com IA**.  
 
-💻 Projetos em destaque
+Além disso, tenho base em **Neuroengenharia**, o que me trouxe uma visão interdisciplinar sobre tecnologia, hardware e comportamento humano — mas meu foco hoje é 100% em **tecnologia e desenvolvimento**.
 
-Pokédex – Aplicação web interativa que consome a PokéAPI para exibir informações de Pokémons em tempo real. Desenvolvi funcionalidades de busca, manipulação do DOM e interface responsiva.
+---
 
-Menu de Café – Cardápio digital responsivo construído com HTML semântico, Flexbox e Grid, aplicando boas práticas de usabilidade e design.
+## 🚀 Tecnologias que uso e estudo
+💻 **Front-end:** HTML5 • CSS3 • JavaScript • React • TypeScript • Tailwind CSS  
+⚙️ **Back-end / Lógica:** Node.js • Python • APIs REST  
+🧠 **IA e Automação:** Chatbots • Integrações com Twilio e Make • Modelos de IA  
+🔌 **Outros conhecimentos:** Arduino (conceitos de hardware e sensores)
 
+---
 
-📚 Estudos atuais: HTML, CSS, JavaScript, React e fundamentos de front-end.
-🎯 Meta: Conquistar um estágio de desenvolvedor front-end nos próximos meses.
-🎲 Curiosidade: Sou fã de animes e já criei um blog temático unindo programação e hobby.
+## 🌟 Projetos em Destaque
 
-<p align="esquerda">
+### 🐾 [Site ONG Acolhe Pet](https://gabrieldev26-frontend.github.io/site-ong/index.html)
+Um projeto acadêmico de **site institucional responsivo** voltado à adoção e proteção animal.  
+Construído como uma **SPA (Single Page Application)** em JavaScript puro, com foco em **usabilidade, acessibilidade e performance**.
 
-</p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a> <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
+**🔹 Tecnologias utilizadas:**  
+HTML5 • CSS3 • JavaScript • Bootstrap 5  
 
-### Redes sociais
+**✨ Destaques:**  
+- Navegação dinâmica (SPA) sem recarregar a página  
+- Formulário de cadastro com validação e máscaras (CPF, telefone, CEP)  
+- Design totalmente responsivo  
+- Imagens otimizadas e layout leve  
+- Seções: Início, Projetos, Cadastro e Notícias  
 
-<p align="left"> </p> <a href="https://www.github.com/GabrielDev26-frontend" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-souza" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
+[👉 Acesse o site](https://gabrieldev26-frontend.github.io/site-ong/index.html)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/gabrieldev26-frontend">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldev26-frontend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev26-frontend&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Snake Game (Contribuições)
+![Snake animation](https://github.com/gabrieldev26-frontend/gabrieldev26-frontend/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contato
+💼 [LinkedIn](https://www.linkedin.com/in/gabrieldev26)  
+🌐 [Portfólio](https://gabrieldev26-frontend.github.io)  
+📧 gabriel.dev26@gmail.com  
+
+---
+
+⭐ *“A tecnologia é a ponte entre ideias e impacto real.”*  
