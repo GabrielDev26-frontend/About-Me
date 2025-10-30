@@ -47,9 +47,8 @@ HTML5 • CSS3 • JavaScript • Bootstrap 5
 ---
 
 ## 📫 Contato
-💼 [LinkedIn](https://www.linkedin.com/in/gabrieldev26)  
-🌐 [Portfólio](https://gabrieldev26-frontend.github.io)  
-📧 gabriel.dev26@gmail.com  
+💼 [LinkedIn]([https://www.linkedin.com/in/gabrieldev26](https://www.linkedin.com/in/gabriel-de-oliveira-souza-89b57719b/)) 
+
 
 ---
 
